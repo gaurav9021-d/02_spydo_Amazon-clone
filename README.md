@@ -1,2 +1,4 @@
 # Amazon-clone
-amazon 
+ (with gaurav)
+amazon
+my name is gaurav
